@@ -70,7 +70,7 @@ export default function Home() {
 
                   <div className="marquee">
                     <div className="marquee__group">
-                      <img src="../kirby.jpg" width="100px" />
+                      <img src="../confused_emoji.jpeg" width="100px" />
                       <img src="../kirby.jpg" width="100px" />
                       <img src="../kirby.jpg" width="100px" />
                       <img src="../kirby.jpg" width="100px" />
