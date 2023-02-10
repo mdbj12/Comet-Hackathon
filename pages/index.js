@@ -112,7 +112,7 @@ export default function Home() {
                           </div> */}
 
                           <h2 className="text-xl font-bold tracking-tight text-gray-800 sm:text-2xl">
-                            A Solana NFT with our confusion's connection.
+                            A Solana NFT, but don't ask me about it. I don't know either.
                           </h2>
 
                           <div className="-m-3 flex items-start rounded-lg p-3 transition duration-150 ease-in-out hover:bg-gray-50">
@@ -124,7 +124,7 @@ export default function Home() {
                             </div>
                             <div className="ml-4">
                               <p className="text-base font-medium text-gray-900">
-                                Take his love.
+                                Free me from this confusion...
                               </p>
                               <p className="mt-1 text-sm text-gray-500 mb-2">
                                 please...
