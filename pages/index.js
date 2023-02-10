@@ -70,19 +70,19 @@ export default function Home() {
 
                   <div className="marquee">
                     <div className="marquee__group">
-                      <img src="../emoji.jpg" width="100px" />
-                      <img src="../emoji.jpg" width="100px" />
-                      <img src="../emoji.jpg" width="100px" />
-                      <img src="../emoji.jpg" width="100px" />
-                      <img src="../emoji.jpg" width="100px" />
+                      <img src="../confused.gif" width="100px" />
+                      <img src="../confused.gif" width="100px" />
+                      <img src="../confused.gif" width="100px" />
+                      <img src="../confused.gif" width="100px" />
+                      <img src="../confused.gif" width="100px" />
                     </div>
 
                     <div aria-hidden="true" class="marquee__group">
-                      <img src="../emoji.jpg" width="100px" />
-                      <img src="../emoji.jpg" width="100px" />
-                      <img src="../emoji.jpg" width="100px" />
-                      <img src="../emoji.jpg" width="100px" />
-                      <img src="../emoji.jpg" width="100px" />
+                      <img src="../confused.gif" width="100px" />
+                      <img src="../confused.gif" width="100px" />
+                      <img src="../confused.gif" width="100px" />
+                      <img src="../confused.gif" width="100px" />
+                      <img src="../confused.gif" width="100px" />
                     </div>
                   </div>
 
